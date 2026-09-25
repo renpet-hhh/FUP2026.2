@@ -1,0 +1,2 @@
+Aula 18 (Tuplas & Strings): https://colab.research.google.com/drive/1ntqzsOcU7p1L5zhHug1IFQTfFq2SRMZn
+Lab 19: https://colab.research.google.com/drive/1DXFSBIiLS7YnIKpzOp-IO0p0L48VWhKn
