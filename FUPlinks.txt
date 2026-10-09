@@ -3,3 +3,6 @@ Lab 19: https://colab.research.google.com/drive/1DXFSBIiLS7YnIKpzOp-IO0p0L48VWhK
 Aula 20 (Dicionários e conjuntos): https://colab.research.google.com/drive/1bzRZPntYQvveSEajnNNGgPdN8i3Wzlb6
 Aula 21 (Matrizes): https://colab.research.google.com/drive/1t37LTYiwoHBviibLr-T90xtAu8AI596e
 Lab 22: https://colab.research.google.com/drive/1lqDiuPV0SqVCNRU-PPC53bVIy5sQ0jD_
+Aula 23 (Funções - parte 1): https://colab.research.google.com/drive/1L-bKTpKRqeNSkLXp4Ol5cc0F7-LSFAXT
+Aula 24 (Funções - parte 2): https://colab.research.google.com/drive/1v9t7iymqEiPtnW3uuPZdUnRq2yE1hMXm
+Lab 25: https://colab.research.google.com/drive/1qyhVxv1FPuJS9khgX-SLEcaMx-pJrne0
